@@ -6,5 +6,5 @@ if(x > y){
 }else if(x < y){
     console.log(y)
 }else if( x === y){
-    console.log('')
+    console.log('The Values Are Identical')
 }
